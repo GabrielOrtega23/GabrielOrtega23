@@ -10,7 +10,7 @@ Sou estudante da Etez Zona Leste, 1ºDS AMS
   <img height="200" width="430" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielOrtega23&layout=compact&theme=radical" />
 </a>
 </div>
-##
+
 
 <div style="display: inline_block"><br>
 <p>Linguagens que estou utilizando:</p>
