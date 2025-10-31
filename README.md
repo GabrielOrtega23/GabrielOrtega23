@@ -4,10 +4,10 @@ Sou estudante da Etez Zona Leste, 1ºDS AMS
 <br>
 <div style="display: inline_block">
 <a href="https://github.com/GabrielOrtega23/github-readme-stats">
-  <img height="200" width="500" align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielOrtega23&show_icons=true&theme=radical" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielOrtega23&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/GabrielOrtega23/convoychat">
-  <img height="200" width="430" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielOrtega23&layout=compact&theme=radical" />
+  <img height="200"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielOrtega23&layout=compact&theme=radical" />
 </a>
 </div>
 
