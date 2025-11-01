@@ -1,5 +1,5 @@
 ## Olá, sou Gabriel Ortega!
-Sou estudante da Etez Zona Leste, 1ºDS AMS
+Sou estudante da Etec Zona Leste, 1ºDS AMS
 <br>
 Projeto Eventify: https://github.com/GabrielOrtega23/Eventify-GerenciamentodeEventos
 <br>
