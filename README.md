@@ -1,5 +1,5 @@
 ## Olá, 👋 sou Gabriel Ortega!
-Sou estudante da Etec Zona Leste, 2ºDS AMS
+Tenho 16 anos, Moro em São Paulo, sou estudante de Desenvolvimento de Sistema na Etec Zona Leste, 2ºDS AMS.
 
 <br>
 
