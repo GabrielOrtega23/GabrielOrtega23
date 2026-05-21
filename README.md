@@ -48,7 +48,6 @@ Tenho 16 anos, Moro em São Paulo, sou estudante de Desenvolvimento de Sistema n
 ### 🔧 Hardware
 
 <p>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c++/c++-original.svg" title="HTML5"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" title="Arduino"/>
 </p>
 
