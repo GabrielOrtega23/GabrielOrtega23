@@ -3,8 +3,8 @@ Sou estudante da Etec Zona Leste, 2ºDS AMS
 <br>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielOrtega23&show_icons=true&theme=radical&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielOrtega23&layout=donut&theme=radical" />
+  <img src="https://vercel-rho-lyart.vercel.app/api?username=GabrielOrtega23&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://vercel-rho-lyart.vercel.app/api/top-langs/?username=GabrielOrtega23&layout=donut&theme=radical" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=GabrielOrtega23&theme=radical" />
   <br/>
