@@ -9,7 +9,7 @@ Sou estudante da Etec Zona Leste, 2ºDS AMS
   <br>
 
   <br/><br/>
-  <img width="725" src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielOrtega23&theme=radical" />
+  <img width="715" src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielOrtega23&theme=radical" />
 </div>
 
 <br>
