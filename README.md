@@ -6,14 +6,16 @@ Sou estudante da Etec Zona Leste, 2ºDS AMS
 <div align="center">
   <img height="180" src="https://vercel-rho-lyart.vercel.app/api?username=GabrielOrtega23&show_icons=true&theme=radical&count_private=true" />
   <img height="180" src="https://vercel-rho-lyart.vercel.app/api/top-langs/?username=GabrielOrtega23&layout=donut&theme=radical" />
-  <br/><br/>
+  <br>
 
   <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielOrtega23&theme=radical" />
 </div>
 
 <br>
+<div align="center">
   <img height="180" src="https://streak-stats.demolab.com?user=GabrielOrtega23&theme=radical" />
+  <div/>
 ---
 
 ### 🖥️ Front End
