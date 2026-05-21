@@ -1,13 +1,14 @@
 ## Olá, sou Gabriel Ortega!
 Sou estudante da Etec Zona Leste, 2ºDS AMS
+
 <br>
-<br>
+
 <div align="center">
   <img src="https://vercel-rho-lyart.vercel.app/api?username=GabrielOrtega23&show_icons=true&theme=radical&count_private=true" />
   <img src="https://vercel-rho-lyart.vercel.app/api/top-langs/?username=GabrielOrtega23&layout=donut&theme=radical" />
-  <br/>
+  <br/><br/>
   <img src="https://streak-stats.demolab.com?user=GabrielOrtega23&theme=radical" />
-  <br/>
+  <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielOrtega23&theme=radical" />
 </div>
 
@@ -16,27 +17,37 @@ Sou estudante da Etec Zona Leste, 2ºDS AMS
 ---
 
 ### 🖥️ Front End
-<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5"/>
-<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3"/>
-<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript"/>
 
-<br><br>
+<p>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript"/>
+</p>
+
+---
 
 ### 🗄️ Back End
-<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL"/>
-<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java"/>
 
-<br><br>
+<p>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java"/>
+</p>
+
+---
 
 ### 📱 Mobile
-<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" title="Kotlin"/>
 
-<br><br>
+<p>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" title="Kotlin"/>
+</p>
+
+---
 
 ### 🔧 Hardware
-<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" title="Arduino"/>
 
-<br><br>
+<p>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" title="Arduino"/>
+</p>
 
 ---
 
