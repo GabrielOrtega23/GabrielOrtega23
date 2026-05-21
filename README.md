@@ -1,4 +1,4 @@
-## Olá, sou Gabriel Ortega!
+## Olá, 👋 sou Gabriel Ortega!
 Sou estudante da Etec Zona Leste, 2ºDS AMS
 
 <br>
