@@ -2,17 +2,7 @@
 Sou estudante da Etec Zona Leste, 2ºDS AMS
 <br>
 <br>
-<div style="display: inline_block">
-<a href="https://github.com/GabrielOrtega23/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielOrtega23&show_icons=true&theme=radical" />
-</a>
-  <br>
-  <br>
-  <br>
-<a href="https://github.com/GabrielOrtega23/convoychat">
-  <img height="300" width="300"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielOrtega23&layout=compact&theme=radical" />
-</a>
-</div>
+
 
 
 <div style="display: inline_block"><br>
